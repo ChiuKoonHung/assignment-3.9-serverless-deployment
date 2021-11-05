@@ -10,7 +10,7 @@ Discuss in your project to:
 4. After you have discuss the 3 items above with your group, start researching on which cloud solutions suit your deployment plan.
 
 ```
-// Which deployment platform will your group be using?
+// Web crawler to extract data using in memory.
 ```
 
 ## Submission Guidelines
